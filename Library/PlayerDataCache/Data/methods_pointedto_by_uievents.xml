@@ -1,0 +1,19 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Save">
+			<method name="Load"/>
+			<method name="SaveP"/>
+		</type>
+		<type fullname="Buttons">
+			<method name="Clicked"/>
+			<method name="Clicked"/>
+			<method name="Clicked"/>
+			<method name="Clicked"/>
+			<method name="Clicked"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="TornmentMembers"/>
+			<method name="ResetRecords"/>
+		</type>
+	</assembly>
+</linker>
