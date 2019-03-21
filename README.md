@@ -21,6 +21,9 @@ This app is made by unity so you can extracted to any operation system
 
 ## Images from android "Lenovo Tab S8 - 8 INCHES"
 
+![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-43-57.png)
+![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-45-29.png)
 ![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-45-14.png)
 ![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-44-53.png)
+![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-44-25.png)
 ![alt text](https://github.com/khaledsabry97/Tournament/blob/master/Photos/Screenshot_2019-03-20-20-44-08.png)
